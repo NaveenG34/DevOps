@@ -1,0 +1,1 @@
+print("ET0735 class is fun")
