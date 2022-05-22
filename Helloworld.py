@@ -1,1 +1,1 @@
-print("ET0735 class is fun")
+print("ET0735 claSSS is fun")
